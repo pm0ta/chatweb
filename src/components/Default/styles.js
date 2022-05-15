@@ -25,5 +25,5 @@ export const Info = styled.h3`
   font-size: 19px;
   text-align: center;
   max-width: 500px;
-  color: red;
+  color: blueviolet;
 `
