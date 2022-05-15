@@ -26,5 +26,4 @@ export const Info = styled.p`
   text-align: center;
   max-width: 500px;
   color: blueviolet;
-  line-height: 50px;
 `
