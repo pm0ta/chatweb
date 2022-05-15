@@ -6,9 +6,10 @@ function Default() {
   return (
     <C.Container>
       <MdMessage />
-      <C.Title> Chat App </C.Title>
+      <C.Title> Web Chat </C.Title>
       <C.Info>
-        by: Will Dev 
+        Equipe: Pedro Mota, Eric Freitas e Samuel.
+        Créditos: Will Dev
       </C.Info>
     </C.Container>
   );
