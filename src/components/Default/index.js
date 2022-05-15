@@ -9,7 +9,7 @@ function Default() {
       <C.Title> Web Chat </C.Title>
       <C.Info>
         Equipe: Pedro Mota, Eric Freitas e Samuel.
-        Créditos: Will Dev
+        <br/> Créditos: Will Dev
       </C.Info>
     </C.Container>
   );
