@@ -46,9 +46,7 @@ function SidebarHeader({ setuserChat }) {
       onClick={() => [auth.signOut(), setuserChat(null)]}
       />
       <C.Options>
-        <MdDonutLarge />
         <MdChat onClick={handleCreatechat} />
-        <MdMoreVert />
       </C.Options>
     </C.Container>
   )
