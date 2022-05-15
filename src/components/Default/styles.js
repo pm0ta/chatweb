@@ -21,9 +21,10 @@ export const Title = styled.h1`
   text-align: center;
 `;
 
-export const Info = styled.h3`
+export const Info = styled.h4`
   font-size: 19px;
   text-align: center;
   max-width: 500px;
   color: blueviolet;
+  line-height: 7px;
 `
