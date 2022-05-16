@@ -8,9 +8,9 @@ function Default() {
       <MdMessage />
       <C.Title> Web Chat </C.Title>
       <C.Info>
-        Equipe: Pedro Mota, Eric Freitas e Samuel.
+        Equipe: <b> Pedro Mota, Eric Freitas e Samuel. </b>
         <br/> <br/>
-        Créditos: Will Dev
+        Créditos: <b> Will Dev </b>
       </C.Info>
     </C.Container>
   );
