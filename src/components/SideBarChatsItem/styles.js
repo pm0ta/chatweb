@@ -26,7 +26,7 @@ export const Container = styled.div`
 `;
 
 export const Name = styled.span`
-  font-size: 18px;
+  font-size: 12px;
   overflow: hidden;
   text-overflow: ellipsis;
 `;
