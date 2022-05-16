@@ -14,7 +14,6 @@ function ChatHeader({ photoURL, name }) {
       <C.Options>
         <MdSearch />
         <MdMoreVert />
-        <h4> créditos: Will Dev </h4>
       </C.Options>
     </C.Container>
   );
