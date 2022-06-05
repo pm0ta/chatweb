@@ -1,5 +1,7 @@
 ## Créditos: Will Dev ( Youtube )
 
+:pushpin: **Feito apenas para estudo.**
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
